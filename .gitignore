@@ -1,0 +1,15 @@
+# Large raw data downloads
+data/clinvar/variant_summary.txt.gz
+scripts/phase3_transcriptomics/GSE111605/
+
+# FoldX binary (licensed, don't redistribute) and its bulk mutant output
+tools/foldx/*.exe
+tools/foldx/molecules/
+tools/foldx/PLP1_alphafold_Repair_*.pdb
+tools/foldx/*.fxout
+
+# Keep the repaired WT structure though
+!tools/foldx/PLP1_alphafold_Repair.pdb
+
+# OS junk
+Thumbs.db

@@ -1,0 +1,84 @@
+Name,Type,ClinicalSignificance,PhenotypeList,ChromosomeAccession,Start,Stop,ref_aa,protein_pos,alt_aa,consequence,mechanism,foldx_mutation,mutation_index,mutant_total_energy,ddG_kcal_mol
+NM_000533.5(PLP1):c.646C>A (p.Pro216Thr),single nucleotide variant,Pathogenic,,X,103788460.0,103788460.0,Pro,216.0,Thr,missense,misfolding_candidate,PA216T;,1,2.79154,1.08154
+NM_000533.5(PLP1):c.92T>C (p.Leu31Pro),single nucleotide variant,Likely pathogenic,,X,103785669.0,103785669.0,Leu,31.0,Pro,missense,misfolding_candidate,LA31P;,2,5.75286,4.04286
+NM_000533.5(PLP1):c.716T>C (p.Leu239Pro),single nucleotide variant,Likely pathogenic,,X,103789352.0,103789352.0,Leu,239.0,Pro,missense,misfolding_candidate,LA239P;,3,4.73874,3.02874
+NM_000533.5(PLP1):c.758C>G (p.Ser253Cys),single nucleotide variant,Likely pathogenic,,X,103789394.0,103789394.0,Ser,253.0,Cys,missense,misfolding_candidate,SA253C;,4,2.44094,0.7309399999999999
+NM_000533.5(PLP1):c.62C>T (p.Ala21Val),single nucleotide variant,Likely pathogenic,,X,103785639.0,103785639.0,Ala,21.0,Val,missense,misfolding_candidate,AA21V;,5,2.89558,1.1855799999999999
+NM_000533.5(PLP1):c.94T>C (p.Phe32Leu),single nucleotide variant,Likely pathogenic,,X,103785671.0,103785671.0,Phe,32.0,Leu,missense,misfolding_candidate,FA32L;,6,0.597463,-1.112537
+NM_000533.5(PLP1):c.137T>C (p.Leu46Pro),single nucleotide variant,Likely pathogenic,,X,103785714.0,103785714.0,Leu,46.0,Pro,missense,misfolding_candidate,LA46P;,7,6.08435,4.37435
+NM_000533.5(PLP1):c.92T>G (p.Leu31Arg),single nucleotide variant,Likely pathogenic,,X,103785669.0,103785669.0,Leu,31.0,Arg,missense,misfolding_candidate,LA31R;,8,0.873051,-0.8369489999999999
+NM_000533.5(PLP1):c.761T>C (p.Leu254Pro),single nucleotide variant,Likely pathogenic,,X,103789397.0,103789397.0,Leu,254.0,Pro,missense,misfolding_candidate,LA254P;,9,7.27229,5.56229
+NM_000533.5(PLP1):c.758C>T (p.Ser253Phe),single nucleotide variant,Likely pathogenic,,X,103789394.0,103789394.0,Ser,253.0,Phe,missense,misfolding_candidate,SA253F;,10,11.6811,9.9711
+NM_000533.5(PLP1):c.752T>C (p.Leu251Pro),single nucleotide variant,Likely pathogenic,,X,103789388.0,103789388.0,Leu,251.0,Pro,missense,misfolding_candidate,LA251P;,11,8.01563,6.30563
+NM_000533.5(PLP1):c.736G>T (p.Gly246Trp),single nucleotide variant,Likely pathogenic,,X,103789372.0,103789372.0,Gly,246.0,Trp,missense,misfolding_candidate,GA246W;,12,49.9875,48.277499999999996
+NM_000533.5(PLP1):c.730T>G (p.Phe244Val),single nucleotide variant,Likely pathogenic,,X,103789366.0,103789366.0,Phe,244.0,Val,missense,misfolding_candidate,FA244V;,13,1.62665,-0.08335000000000004
+NM_000533.5(PLP1):c.728C>T (p.Ala243Val),single nucleotide variant,Pathogenic,,X,103789364.0,103789364.0,Ala,243.0,Val,missense,misfolding_candidate,AA243V;,14,1.68292,-0.027079999999999993
+NM_000533.5(PLP1):c.728C>A (p.Ala243Glu),single nucleotide variant,Likely pathogenic,,X,103789364.0,103789364.0,Ala,243.0,Glu,missense,misfolding_candidate,AA243E;,15,0.924932,-0.785068
+NM_000533.5(PLP1):c.676T>C (p.Ser226Pro),single nucleotide variant,Pathogenic/Likely pathogenic,,X,103788490.0,103788490.0,Ser,226.0,Pro,missense,misfolding_candidate,SA226P;,16,2.21651,0.50651
+NM_000533.5(PLP1):c.658T>C (p.Cys220Arg),single nucleotide variant,Likely pathogenic,,X,103788472.0,103788472.0,Cys,220.0,Arg,missense,misfolding_candidate,CA220R;,17,2.22865,0.51865
+NM_000533.5(PLP1):c.125G>A (p.Gly42Asp),single nucleotide variant,Likely pathogenic,,X,103785702.0,103785702.0,Gly,42.0,Asp,missense,misfolding_candidate,GA42D;,18,1.50976,-0.20023999999999997
+NM_000533.5(PLP1):c.656T>G (p.Val219Gly),single nucleotide variant,Likely pathogenic,,X,103788470.0,103788470.0,Val,219.0,Gly,missense,misfolding_candidate,VA219G;,19,3.63395,1.92395
+NM_000533.5(PLP1):c.628C>T (p.Leu210Phe),single nucleotide variant,Likely pathogenic,,X,103788442.0,103788442.0,Leu,210.0,Phe,missense,misfolding_candidate,LA210F;,20,3.74217,2.0321700000000003
+NM_000533.5(PLP1):c.619T>C (p.Tyr207His),single nucleotide variant,Likely pathogenic,,X,103787963.0,103787963.0,Tyr,207.0,His,missense,misfolding_candidate,YA207H;,21,1.06884,-0.64116
+NM_000533.5(PLP1):c.619T>A (p.Tyr207Asn),single nucleotide variant,Likely pathogenic,,X,103787963.0,103787963.0,Tyr,207.0,Asn,missense,misfolding_candidate,YA207N;,22,1.45648,-0.25351999999999997
+NM_000533.5(PLP1):c.56T>C (p.Leu19Pro),single nucleotide variant,Likely pathogenic,,X,103785633.0,103785633.0,Leu,19.0,Pro,missense,misfolding_candidate,LA19P;,23,6.59071,4.88071
+NM_000533.5(PLP1):c.121A>C (p.Thr41Pro),single nucleotide variant,Likely pathogenic,,X,103785698.0,103785698.0,Thr,41.0,Pro,missense,misfolding_candidate,TA41P;,24,3.08631,1.3763100000000001
+NM_000533.5(PLP1):c.517C>T (p.Pro173Ser),single nucleotide variant,Likely pathogenic,,X,103787861.0,103787861.0,Pro,173.0,Ser,missense,misfolding_candidate,PA173S;,25,2.33134,0.62134
+NM_000533.5(PLP1):c.453G>T (p.Lys151Asn),single nucleotide variant,Likely pathogenic,,X,103786726.0,103786726.0,Lys,151.0,Asn,missense,misfolding_candidate,KA151N;,26,-0.122256,-1.8322559999999999
+NM_000533.5(PLP1):c.119T>A (p.Leu40His),single nucleotide variant,Likely pathogenic,,X,103785696.0,103785696.0,Leu,40.0,His,missense,misfolding_candidate,LA40H;,27,1.44188,-0.2681199999999999
+NM_000533.5(PLP1):c.347C>A (p.Thr116Lys),single nucleotide variant,Likely pathogenic,,X,103786620.0,103786620.0,Thr,116.0,Lys,missense,misfolding_candidate,TA116K;,28,-0.900197,-2.610197
+NM_000533.5(PLP1):c.2T>A (p.Met1Lys),single nucleotide variant,Pathogenic,,X,103776997.0,103776997.0,Met,1.0,Lys,missense,misfolding_candidate,MA1K;,29,0.111582,-1.598418
+NM_000533.5(PLP1):c.260T>C (p.Leu87Pro),single nucleotide variant,Likely pathogenic,,X,103786533.0,103786533.0,Leu,87.0,Pro,missense,misfolding_candidate,LA87P;,30,7.08266,5.37266
+NM_000533.5(PLP1):c.254T>G (p.Leu85Arg),single nucleotide variant,Likely pathogenic,,X,103786527.0,103786527.0,Leu,85.0,Arg,missense,misfolding_candidate,LA85R;,31,1.16885,-0.54115
+NM_000533.5(PLP1):c.242T>G (p.Leu81Arg),single nucleotide variant,Likely pathogenic,,X,103786515.0,103786515.0,Leu,81.0,Arg,missense,misfolding_candidate,LA81R;,32,0.17399,-1.5360099999999999
+NM_000533.5(PLP1):c.221G>A (p.Gly74Glu),single nucleotide variant,Likely pathogenic,,X,103786494.0,103786494.0,Gly,74.0,Glu,missense,misfolding_candidate,GA74E;,33,-0.794225,-2.504225
+NM_000533.5(PLP1):c.206A>T (p.Gln69Leu),single nucleotide variant,Likely pathogenic,,X,103786479.0,103786479.0,Gln,69.0,Leu,missense,misfolding_candidate,QA69L;,34,-2.00095,-3.71095
+NM_000533.5(PLP1):c.151T>G (p.Phe51Val),single nucleotide variant,Likely pathogenic,,X,103785728.0,103785728.0,Phe,51.0,Val,missense,misfolding_candidate,FA51V;,35,2.12267,0.41266999999999987
+NM_000533.5(PLP1):c.103T>C (p.Cys35Arg),single nucleotide variant,Likely pathogenic,,X,103785680.0,103785680.0,Cys,35.0,Arg,missense,misfolding_candidate,CA35R;,36,-1.02255,-2.73255
+NM_000533.5(PLP1):c.694G>A (p.Glu232Lys),single nucleotide variant,Likely pathogenic,,X,103788508.0,103788508.0,Glu,232.0,Lys,missense,misfolding_candidate,EA232K;,37,0.205606,-1.504394
+NM_000533.5(PLP1):c.623G>T (p.Gly208Val),single nucleotide variant,Pathogenic,,X,103788437.0,103788437.0,Gly,208.0,Val,missense,misfolding_candidate,GA208V;,38,4.86977,3.15977
+NM_000533.5(PLP1):c.83G>A (p.Gly28Glu),single nucleotide variant,Likely pathogenic,,X,103785660.0,103785660.0,Gly,28.0,Glu,missense,misfolding_candidate,GA28E;,39,18.2594,16.5494
+NM_000533.5(PLP1):c.608A>G (p.Asp203Gly),single nucleotide variant,Likely pathogenic,,X,103787952.0,103787952.0,Asp,203.0,Gly,missense,misfolding_candidate,DA203G;,40,7.04314,5.33314
+NM_000533.5(PLP1):c.613A>G (p.Arg205Gly),single nucleotide variant,Likely pathogenic,,X,103787957.0,103787957.0,Arg,205.0,Gly,missense,misfolding_candidate,RA205G;,41,6.28146,4.57146
+NM_000533.5(PLP1):c.505T>C (p.Cys169Arg),single nucleotide variant,Likely pathogenic,,X,103787849.0,103787849.0,Cys,169.0,Arg,missense,misfolding_candidate,CA169R;,42,-1.36435,-3.07435
+NM_000533.5(PLP1):c.670C>T (p.Leu224Phe),single nucleotide variant,Pathogenic,,X,103788484.0,103788484.0,Leu,224.0,Phe,missense,misfolding_candidate,LA224F;,43,3.17277,1.46277
+NM_000533.5(PLP1):c.226G>C (p.Ala76Pro),single nucleotide variant,Likely pathogenic,,X,103786499.0,103786499.0,Ala,76.0,Pro,missense,misfolding_candidate,AA76P;,44,6.53376,4.82376
+NM_000533.5(PLP1):c.665C>G (p.Ser222Cys),single nucleotide variant,Pathogenic,,X,103788479.0,103788479.0,Ser,222.0,Cys,missense,misfolding_candidate,SA222C;,45,0.412502,-1.297498
+NM_000533.5(PLP1):c.442C>T (p.His148Tyr),single nucleotide variant,Pathogenic/Likely pathogenic,,X,103786715.0,103786715.0,His,148.0,Tyr,missense,misfolding_candidate,HA148Y;,46,-0.505709,-2.215709
+NM_000533.5(PLP1):c.647C>T (p.Pro216Leu),single nucleotide variant,Likely pathogenic,,X,103788461.0,103788461.0,Pro,216.0,Leu,missense,misfolding_candidate,PA216L;,47,2.17855,0.46855
+NM_000533.5(PLP1):c.670C>A (p.Leu224Ile),single nucleotide variant,Likely pathogenic,,X,103788484.0,103788484.0,Leu,224.0,Ile,missense,misfolding_candidate,LA224I;,48,2.79862,1.0886200000000001
+NM_000533.5(PLP1):c.743C>A (p.Ala248Glu),single nucleotide variant,Likely pathogenic,,X,103789379.0,103789379.0,Ala,248.0,Glu,missense,misfolding_candidate,AA248E;,49,-0.504651,-2.214651
+NM_000533.5(PLP1):c.173A>G (p.Tyr58Cys),single nucleotide variant,Pathogenic/Likely pathogenic,,X,103785750.0,103785750.0,Tyr,58.0,Cys,missense,misfolding_candidate,YA58C;,50,2.31635,0.60635
+NM_000533.5(PLP1):c.709T>G (p.Phe237Val),single nucleotide variant,Likely pathogenic,,X,103789345.0,103789345.0,Phe,237.0,Val,missense,misfolding_candidate,FA237V;,51,1.77707,0.06706999999999996
+NM_000533.5(PLP1):c.410G>T (p.Arg137Leu),single nucleotide variant,Likely pathogenic,,X,103786683.0,103786683.0,Arg,137.0,Leu,missense,misfolding_candidate,RA137L;,52,0.18083,-1.52917
+NM_000533.5(PLP1):c.551G>A (p.Cys184Tyr),single nucleotide variant,Likely pathogenic,,X,103787895.0,103787895.0,Cys,184.0,Tyr,missense,misfolding_candidate,CA184Y;,53,6.20994,4.49994
+NM_000533.5(PLP1):c.104G>A (p.Cys35Tyr),single nucleotide variant,Likely pathogenic,,X,103785681.0,103785681.0,Cys,35.0,Tyr,missense,misfolding_candidate,CA35Y;,54,-0.0397382,-1.7497382
+NM_000533.5(PLP1):c.658T>G (p.Cys220Gly),single nucleotide variant,Likely pathogenic,,X,103788472.0,103788472.0,Cys,220.0,Gly,missense,misfolding_candidate,CA220G;,55,3.97277,2.26277
+NM_000533.5(PLP1):c.2T>G (p.Met1Arg),single nucleotide variant,Pathogenic,,X,103776997.0,103776997.0,Met,1.0,Arg,missense,misfolding_candidate,MA1R;,56,0.0683038,-1.6416962
+NM_000533.5(PLP1):c.617T>G (p.Met206Arg),single nucleotide variant,Likely pathogenic,,X,103787961.0,103787961.0,Met,206.0,Arg,missense,misfolding_candidate,MA206R;,57,-0.0140428,-1.7240427999999999
+NM_000533.5(PLP1):c.365A>G (p.Lys122Arg),single nucleotide variant,Likely pathogenic,,X,103786638.0,103786638.0,Lys,122.0,Arg,missense,misfolding_candidate,KA122R;,58,1.78249,0.07248999999999994
+NM_000533.5(PLP1):c.98G>A (p.Cys33Tyr),single nucleotide variant,Likely pathogenic,,X,103785675.0,103785675.0,Cys,33.0,Tyr,missense,misfolding_candidate,CA33Y;,59,-0.229492,-1.939492
+NM_000533.5(PLP1):c.140T>C (p.Ile47Thr),single nucleotide variant,Likely pathogenic,,X,103785717.0,103785717.0,Ile,47.0,Thr,missense,misfolding_candidate,IA47T;,60,2.74661,1.03661
+NM_000533.5(PLP1):c.607G>A (p.Asp203Asn),single nucleotide variant,Pathogenic,,X,103787951.0,103787951.0,Asp,203.0,Asn,missense,misfolding_candidate,DA203N;,61,4.95486,3.24486
+NM_000533.5(PLP1):c.388C>T (p.His130Tyr),single nucleotide variant,Likely pathogenic,,X,103786661.0,103786661.0,His,130.0,Tyr,missense,misfolding_candidate,HA130Y;,62,-0.0864138,-1.7964138
+NM_000533.5(PLP1):c.2T>C (p.Met1Thr),single nucleotide variant,Pathogenic,,X,103776997.0,103776997.0,Met,1.0,Thr,missense,misfolding_candidate,MA1T;,63,0.395903,-1.3140969999999998
+NM_000533.5(PLP1):c.1A>G (p.Met1Val),single nucleotide variant,Pathogenic,,X,103776996.0,103776996.0,Met,1.0,Val,missense,misfolding_candidate,MA1V;,64,0.521964,-1.1880359999999999
+NM_000533.5(PLP1):c.650G>A (p.Gly217Asp),single nucleotide variant,Likely pathogenic,,X,103788464.0,103788464.0,Gly,217.0,Asp,missense,misfolding_candidate,GA217D;,65,11.4988,9.788799999999998
+NM_000533.5(PLP1):c.737G>C (p.Gly246Ala),single nucleotide variant,Pathogenic/Likely pathogenic,,X,103789373.0,103789373.0,Gly,246.0,Ala,missense,misfolding_candidate,GA246A;,66,4.84973,3.13973
+NM_000533.5(PLP1):c.683G>A (p.Cys228Tyr),single nucleotide variant,Likely pathogenic,,X,103788497.0,103788497.0,Cys,228.0,Tyr,missense,misfolding_candidate,CA228Y;,67,5.6587,3.9486999999999997
+NM_000533.5(PLP1):c.169G>T (p.Asp57Tyr),single nucleotide variant,Pathogenic,,X,103785746.0,103785746.0,Asp,57.0,Tyr,missense,misfolding_candidate,DA57Y;,68,-0.921169,-2.631169
+NM_000533.5(PLP1):c.509C>T (p.Ser170Phe),single nucleotide variant,Likely pathogenic,,X,103787853.0,103787853.0,Ser,170.0,Phe,missense,misfolding_candidate,SA170F;,69,3.09177,1.38177
+NM_000533.5(PLP1):c.725C>T (p.Ala242Val),single nucleotide variant,Pathogenic,,X,103789361.0,103789361.0,Ala,242.0,Val,missense,misfolding_candidate,AA242V;,70,0.134614,-1.575386
+NM_000533.5(PLP1):c.710T>C (p.Phe237Ser),single nucleotide variant,Likely pathogenic,,X,103789346.0,103789346.0,Phe,237.0,Ser,missense,misfolding_candidate,FA237S;,71,3.30513,1.5951300000000002
+NM_000533.5(PLP1):c.3G>A (p.Met1Ile),single nucleotide variant,Pathogenic,,X,103776998.0,103776998.0,Met,1.0,Ile,missense,misfolding_candidate,MA1I;,72,0.282841,-1.427159
+NM_000533.5(PLP1):c.128C>T (p.Thr43Ile),single nucleotide variant,Likely pathogenic,,X,103785705.0,103785705.0,Thr,43.0,Ile,missense,misfolding_candidate,TA43I;,73,1.5463,-0.16369999999999996
+NM_000533.5(PLP1):c.560T>C (p.Ile187Thr),single nucleotide variant,Pathogenic/Likely pathogenic,,X,103787904.0,103787904.0,Ile,187.0,Thr,missense,misfolding_candidate,IA187T;,74,3.08665,1.3766500000000002
+NM_000533.5(PLP1):c.661G>T (p.Gly221Cys),single nucleotide variant,Pathogenic,,X,103788475.0,103788475.0,Gly,221.0,Cys,missense,misfolding_candidate,GA221C;,75,3.73452,2.02452
+NM_000533.5(PLP1):c.220G>A (p.Gly74Arg),single nucleotide variant,Pathogenic,,X,103786493.0,103786493.0,Gly,74.0,Arg,missense,misfolding_candidate,GA74R;,76,-1.45752,-3.1675199999999997
+NM_000533.5(PLP1):c.607G>C (p.Asp203His),single nucleotide variant,Pathogenic,,X,103787951.0,103787951.0,Asp,203.0,His,missense,misfolding_candidate,DA203H;,77,7.58492,5.87492
+NM_000533.5(PLP1):c.544A>C (p.Thr182Pro),single nucleotide variant,Pathogenic,,X,103787888.0,103787888.0,Thr,182.0,Pro,missense,misfolding_candidate,TA182P;,78,4.65653,2.94653
+NM_000533.5(PLP1):c.655G>T (p.Val219Phe),single nucleotide variant,Likely pathogenic,,X,103788469.0,103788469.0,Val,219.0,Phe,missense,misfolding_candidate,VA219F;,79,1.7519,0.04190000000000005
+NM_000533.5(PLP1):c.467C>T (p.Thr156Ile),single nucleotide variant,Pathogenic,,X,103787811.0,103787811.0,Thr,156.0,Ile,missense,misfolding_candidate,TA156I;,80,-0.202693,-1.912693
+NM_000533.5(PLP1):c.44C>T (p.Pro15Leu),single nucleotide variant,Pathogenic/Likely pathogenic,,X,103785621.0,103785621.0,Pro,15.0,Leu,missense,misfolding_candidate,PA15L;,81,3.40694,1.6969400000000001
+NM_000533.5(PLP1):c.487T>C (p.Trp163Arg),single nucleotide variant,Likely pathogenic,,X,103787831.0,103787831.0,Trp,163.0,Arg,missense,misfolding_candidate,WA163R;,82,1.58128,-0.12871999999999995
+NM_000533.5(PLP1):c.646C>T (p.Pro216Ser),single nucleotide variant,Pathogenic,,X,103788460.0,103788460.0,Pro,216.0,Ser,missense,misfolding_candidate,PA216S;,83,2.67697,0.9669699999999999
