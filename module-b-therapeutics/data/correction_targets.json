@@ -1,0 +1,40 @@
+{
+  "loss_of_function": {
+    "n_variants": 173,
+    "disease_state": "PLP1 absent or non-functional; axonal degeneration without demyelination",
+    "target_state": "Restore PLP1 expression toward physiological level",
+    "direction": "increase",
+    "dosage_band_pct_of_normal": [
+      80,
+      120
+    ],
+    "overshoot_risk": "Exceeding the band recreates the duplication phenotype (Karim et al. 2007, Glia)"
+  },
+  "duplication": {
+    "n_variants": 63,
+    "disease_state": "PLP1 overexpressed; protein accumulates in endolysosomes/autophagic vacuoles; MBP reduced",
+    "target_state": "Reduce PLP1 dosage toward physiological level",
+    "direction": "decrease",
+    "dosage_band_pct_of_normal": [
+      80,
+      120
+    ],
+    "overshoot_risk": "Over-suppression recreates the loss-of-function phenotype"
+  },
+  "misfolding_confirmed": {
+    "n_variants": 27,
+    "disease_state": "PLP1 expressed but ER-retained; UPR/ER-stress active; oligodendrocyte death",
+    "target_state": "Improve folding/trafficking efficiency or dampen chronic UPR signalling",
+    "direction": "redirect",
+    "dosage_band_pct_of_normal": null,
+    "overshoot_risk": "Systemic UPR inhibition is dangerous \u2014 the UPR is essential in secretory tissues"
+  },
+  "misfolding_uncertain": {
+    "n_variants": 56,
+    "disease_state": "Pathogenic but structurally mild (ddG <= 1.5) \u2014 mechanism not resolved by folding-stability alone",
+    "target_state": "Undetermined \u2014 needs functional validation before a target can be defined",
+    "direction": null,
+    "dosage_band_pct_of_normal": null,
+    "overshoot_risk": null
+  }
+}

@@ -1,0 +1,5 @@
+mechanism,n_variants,modality,lead_candidates,evidence_tier
+loss_of_function,173,"AAV gene replacement (dosage-limited promoter, see Part 4 design notes)","n/a — cassette design, not a compound list",established clinical modality (CNS AAV gene therapy precedent)
+duplication,63,"ASO, partial knockdown, 3'UTR target (shared by PLP1/DM20)",82 candidate sites; top: pos 212 (TGGTGGCCACTGGATTGT),"strong — PLP1 ASO suppression already validated (Elitt et al. 2020, Nature)"
+misfolding_confirmed,27,"Chaperone/UPR modulator targeting EIF2AK3, HSPA5, ERN1",6 compounds scored; best tier: borderline (none fully CNS-favourable — needs med-chem optimization),preclinical (ISRIB-class ISR modulators in development)
+misfolding_uncertain,56,undetermined,none — requires functional validation first,n/a

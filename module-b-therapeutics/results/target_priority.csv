@@ -1,0 +1,8 @@
+symbol,name,is_essential,SM_druggable_family,SM_has_ligand,SM_has_pocket,SM_approved_drug,AB_feasible,lof_oe,lof_constraint_bin,safety_events,tractable_smallmolecule
+PLP1,proteolipid protein 1,False,False,False,False,False,True,,,none reported,False
+EIF2AK3,eukaryotic translation initiation factor 2 alpha kinase 3,False,True,True,False,False,False,0.4682900011539459,1.0,none reported,True
+ATF4,activating transcription factor 4,True,False,False,False,False,False,0.39779001474380493,1.0,none reported,False
+DDIT3,DNA damage inducible transcript 3,False,False,False,False,False,False,0.7596399784088135,4.0,regulation of transcription factor activity,False
+HSPA5,heat shock protein family A (Hsp70) member 5,True,True,False,True,False,True,0.32256001234054565,1.0,none reported,True
+ERN1,endoplasmic reticulum to nucleus signaling 1,False,True,True,True,False,False,0.3727099895477295,1.0,none reported,True
+ATF6,activating transcription factor 6,False,False,False,False,False,False,0.6567599773406982,2.0,regulation of transcription factor activity,False

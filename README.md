@@ -92,3 +92,10 @@ plp1-pmd-project/
 
 \- `figures/plp1\_mutation\_map.png` — 3D structure colored by destabilization severity
 
+## Extended project modules
+- `module-b-therapeutics/` — therapeutic prediction & intervention design
+- `module-c-validation/` — twin validation on held-out data (GSE277705)
+
+Digital twin (Module A) is a separate repo:
+https://github.com/muneeb-dotcom/plp1-pmd-digital-twin
+
