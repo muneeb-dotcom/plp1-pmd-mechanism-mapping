@@ -1,0 +1,13 @@
+line,mutation_type,severity
+PMD1,point_mutation,severe
+PMD2,point_mutation,moderate
+PMD3,point_mutation,mild
+PMD4,point_mutation,moderate
+PMD5,point_mutation,moderate
+PMD6,point_mutation,severe
+PMD7,point_mutation,severe
+PMD8,point_mutation,severe
+PMD9,partial_deletion,moderate
+PMD10,duplication,moderate
+PMD11,triplication,severe
+PMD12,full_deletion,mild

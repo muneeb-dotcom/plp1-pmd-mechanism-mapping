@@ -1,0 +1,13 @@
+line,mutation_type,severity,displacement,predicted_mechanism
+PMD1,point_mutation,severe,1.6165660341774857,point_mutation
+PMD10,duplication,moderate,0.3624514756021282,point_mutation
+PMD11,triplication,severe,0.9150444690903666,duplication
+PMD12,full_deletion,mild,4.539994056556623,point_mutation
+PMD2,point_mutation,moderate,0.6165689066984666,point_mutation
+PMD3,point_mutation,mild,1.3288561882129437,partial_deletion
+PMD4,point_mutation,moderate,1.4786176183716895,duplication
+PMD5,point_mutation,moderate,1.7591780590044073,point_mutation
+PMD6,point_mutation,severe,1.8882396024877453,partial_deletion
+PMD7,point_mutation,severe,1.352737720256348,duplication
+PMD8,point_mutation,severe,1.100318786205714,duplication
+PMD9,partial_deletion,moderate,1.3553951269356472,triplication

@@ -1,0 +1,2 @@
+test,reference,intervention,reported_direction,predicted_by_project,metric_spec,status
+intervention_response,"Elitt et al. 2020, Nature, PMID 32610343","Plp1-targeting ASO, single ICV dose, postnatal jimpy mice","oligodendrocyte numbers up, myelination up, motor/respiratory improved, lifespan extended -- survival AND myelination co-improve",not computable -- no fitted twin exists in this pipeline that outputs a scalar prediction for PLP1-ASO; no RNA-seq deposited for this arm to score against,directional concordance (per module C4 Test 3 spec),not_measurable

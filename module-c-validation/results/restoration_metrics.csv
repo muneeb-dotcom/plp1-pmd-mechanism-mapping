@@ -1,0 +1,7 @@
+metric,module,status,active,KO,raw_shift
+survival_index,apoptosis,measured,0.2092543353866573,-0.2092543353866531,-0.41850867077331044
+myelin_recovery,myelin_output,measured,-0.9200121151738294,0.92001211517383,1.8400242303476593
+stress_resolution,upr_signaling,measured,0.3293981365309611,-0.3293981365309799,-0.658796273061941
+maturation_recovery,,no_measured_data: no maturation axis exists for bulk whole-tissue samples,,,
+plp1_normalisation,,no_measured_data: no PLP1 dosage measurement in this dataset,,,
+ol_identity,,no_measured_data: no single-cell centroid data in this dataset,,,

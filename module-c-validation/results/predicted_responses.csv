@@ -1,0 +1,10 @@
+mechanism,intervention,matched,status,naive_myelination_delta,gated_myelination_delta,source
+loss_of_function,aav_replacement,True,no_measured_data,,,
+loss_of_function,aso_knockdown,False,no_measured_data,,,
+loss_of_function,chaperone_PERK_inhibition,False,no_measured_data,,,
+duplication,aav_replacement,False,no_measured_data,,,
+duplication,aso_knockdown,True,no_measured_data,,,
+duplication,chaperone_PERK_inhibition,False,no_measured_data,,,
+misfolding_confirmed,aav_replacement,False,no_measured_data,,,
+misfolding_confirmed,aso_knockdown,False,no_measured_data,,,
+misfolding_confirmed,chaperone_PERK_inhibition,True,measured,0.07495259662078707,0.1762643861844628,GSE277705 (real PERK knockout in jimpy mice)

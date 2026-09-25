@@ -1,0 +1,13 @@
+line,mutation_type,mechanism_binary,predicted_binary
+PMD1,point_mutation,point_mutation,point_mutation
+PMD10,duplication,structural_variant,point_mutation
+PMD11,triplication,structural_variant,point_mutation
+PMD12,full_deletion,structural_variant,point_mutation
+PMD2,point_mutation,point_mutation,point_mutation
+PMD3,point_mutation,point_mutation,structural_variant
+PMD4,point_mutation,point_mutation,point_mutation
+PMD5,point_mutation,point_mutation,structural_variant
+PMD6,point_mutation,point_mutation,structural_variant
+PMD7,point_mutation,point_mutation,point_mutation
+PMD8,point_mutation,point_mutation,point_mutation
+PMD9,partial_deletion,structural_variant,point_mutation
